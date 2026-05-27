@@ -29,8 +29,3 @@ O sistema permite visualizar e gerenciar informações relacionadas aos pets dis
 
 Praticar conceitos de desenvolvimento web, banco de dados e organização de aplicações utilizando arquitetura MVC.
 
----
-
-## 👩‍💻 Autora
-
-Milena Souza
